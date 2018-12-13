@@ -1,6 +1,6 @@
 # Hangman.py
 
-## A simple word guess game plaed on the command line
+## A simple word guess game played on the command line
 
 <p align = 'center'>
     <img src = "./screenshots/hmpy.png" width = "40%">
